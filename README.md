@@ -4,7 +4,7 @@ Este é um repositório de teste criado para praticar o fluxo de Pull Request no
 
 ## Sobre
 
-Esse repo serve apenas para aprender como funciona o fluxo de branch -> commit -> push -> PR -> merge. Ele foi criado pra fins de teste e vai ajudar a entender o processo na pratica.
+Esse repo serve apenas para aprender como funciona o fluxo de branch -> commit -> push -> PR -> merge. Ele foi criado pra fins de teste e vai ajudar a entender o processo na prática.
 
 ## Como contribuir
 
